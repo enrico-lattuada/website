@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thermophoresis | Enrico Lattuada</title>
+    <link>https://enrico-lattuada.github.io/website/tag/thermophoresis/</link>
+      <atom:link href="https://enrico-lattuada.github.io/website/tag/thermophoresis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thermophoresis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://enrico-lattuada.github.io/website/media/icon_huca4c0c6a2be488947dc3f4b26ff15653_117028_512x512_fill_lanczos_center_3.png</url>
+      <title>Thermophoresis</title>
+      <link>https://enrico-lattuada.github.io/website/tag/thermophoresis/</link>
+    </image>
+    
+    <item>
+      <title>Thermophoresis in self-associating systems: probing poloxamer micellization by opto-thermal excitation</title>
+      <link>https://enrico-lattuada.github.io/website/publication/2019/lattuadathermophoresis/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://enrico-lattuada.github.io/website/publication/2019/lattuadathermophoresis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

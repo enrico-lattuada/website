@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincenzo Lamberti | Enrico Lattuada</title>
+    <link>https://enrico-lattuada.github.io/website/author/vincenzo-lamberti/</link>
+      <atom:link href="https://enrico-lattuada.github.io/website/author/vincenzo-lamberti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincenzo Lamberti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://enrico-lattuada.github.io/website/media/icon_huca4c0c6a2be488947dc3f4b26ff15653_117028_512x512_fill_lanczos_center_3.png</url>
+      <title>Vincenzo Lamberti</title>
+      <link>https://enrico-lattuada.github.io/website/author/vincenzo-lamberti/</link>
+    </image>
+    
+    <item>
+      <title>Hyperbranched DNA clusters</title>
+      <link>https://enrico-lattuada.github.io/website/publication/2020/lattuadahyperbranched/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://enrico-lattuada.github.io/website/publication/2020/lattuadahyperbranched/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

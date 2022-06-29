@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonella Stoppacciaro | Enrico Lattuada</title>
+    <link>https://enrico-lattuada.github.io/website/author/antonella-stoppacciaro/</link>
+      <atom:link href="https://enrico-lattuada.github.io/website/author/antonella-stoppacciaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonella Stoppacciaro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://enrico-lattuada.github.io/website/media/icon_huca4c0c6a2be488947dc3f4b26ff15653_117028_512x512_fill_lanczos_center_3.png</url>
+      <title>Antonella Stoppacciaro</title>
+      <link>https://enrico-lattuada.github.io/website/author/antonella-stoppacciaro/</link>
+    </image>
+    
+    <item>
+      <title>DNA-GEL, novel nanomaterial for biomedical applications and delivery of bioactive molecules</title>
+      <link>https://enrico-lattuada.github.io/website/publication/2020/lattuadadna/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://enrico-lattuada.github.io/website/publication/2020/lattuadadna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
