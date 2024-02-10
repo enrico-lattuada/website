@@ -1,3 +1,0 @@
-Check here for instructions
-
-https://wowchemy.com/docs/getting-started/hugo-github-quickstart/
